@@ -4,6 +4,8 @@
 [![Issues][issues-shield]][issues-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
+## this is referred by [Stochastic Processes Analysis](https://towardsdatascience.com/stochastic-processes-analysis-f0a116999e4)
+
 # Artificial-Intelligence-Projects
 
 Collection of Artificial Intelligence projects realised by me. Some of these topics have been covered in my personal blog: <br>
